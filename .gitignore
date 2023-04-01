@@ -1,2 +1,5 @@
 node_modules
 curso-frontend-developer-practico
+/Buil
+/dist
+npm-debug-log
